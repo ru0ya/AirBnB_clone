@@ -281,4 +281,6 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Michael Ndula** <[Michaelndula](https://github.com/Michaelndula)>
+* **Musa Parsanka** <[ParsankaMusa](https://github.com/Parsankamusa)>
+* **Victor Mwangi** <[ru0ya](https://github.com/ru0ya)>
+
